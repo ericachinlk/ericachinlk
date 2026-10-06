@@ -1,6 +1,6 @@
-# Hi, I'm Erica 👋
+# Hi, I'm Erica Chin 👋
 
-Software engineering student at [42 Kuala Lumpur]([https://42kl.edu.my](https://42malaysia.edu.my/)), building in **Python** and **C**.
+Software engineering student at [42 Kuala Lumpur](https://42malaysia.edu.my/), building in **Python** and **C**.
 
 Before moving into tech, I spent 10+ years in marketing, content and media. At AirAsia MOVE I used campaign and user-behaviour data to support growth for Hotels and Shop, including platform campaigns that reached 17M+ users in a week. I'm also a published author of nine Chinese novels.
 
