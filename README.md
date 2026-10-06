@@ -31,9 +31,9 @@ A configurable maze generator with a reusable library and command-line interface
 
 ## Tech
 
-**Languages:** Python, C (primary) · JavaScript, HTML, CSS (basic)
-**Focus areas:** concurrency, algorithms and data structures, LLM function calling
-**Tools:** Git, Linux, Make, uv, mypy, flake8, AddressSanitizer, ThreadSanitizer
+- **Languages:** Python, C (primary) · JavaScript, HTML, CSS (basic)
+- **Focus areas:** concurrency, algorithms and data structures, LLM function calling
+- **Tools:** Git, Linux, Make, uv, mypy, flake8, AddressSanitizer, ThreadSanitizer
 
 ## Currently
 
